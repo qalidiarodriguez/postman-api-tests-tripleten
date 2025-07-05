@@ -8,7 +8,7 @@ Este repositorio contiene una colección de pruebas API desarrolladas con **Post
 
 - `API-test-TripleTen.postman_collection.json`: colección exportada de Postman con pruebas HTTP, variables y validaciones.
 - `README.md`: descripción del proyecto y guía de uso.
-- 📸 (Opcional) Carpeta `screenshots/` con capturas de la colección funcionando.
+- 📸 Carpeta `screenshots/` con capturas de la colección funcionando.
 ---
 
 ### 📸 Vista previa en Postman
