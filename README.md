@@ -1,3 +1,24 @@
+# 🧪 API Testing con Postman – Proyecto TripleTen
+
+Este repositorio contiene una colección de pruebas API desarrolladas con **Postman** como parte del programa **QA Engineer de TripleTen**.
+
+---
+
+## 📂 Contenido del Repositorio
+
+- `API-test-TripleTen.postman_collection.json`: colección exportada de Postman con pruebas HTTP, variables y validaciones.
+- `README.md`: descripción del proyecto y guía de uso.
+- 📸 (Opcional) Carpeta `screenshots/` con capturas de la colección funcionando.
+
+---
+
+## 🚀 ¿Cómo usar este proyecto?
+
+### 🔁 Importar la colección en Postman
+
+1. Abre **Postman** en tu computadora.
+2. Haz clic en **“Import”** (parte superior izquierda).
+3. Selecciona el archivo:
 4. ¡Listo! Ya puedes ver y ejecutar las solicitudes (requests) incluidas.
 
 ---
